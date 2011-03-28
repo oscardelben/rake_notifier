@@ -1,0 +1,5 @@
+Rake Notifier send a notification to your email address whenever a Rake task in your application fails.
+
+To use, install the pony gem, post the content of Rakefile into your own Rakefile, change FROM_EMAIL and TO_EMAIL and then you're ready to go.
+
+Project Status: alpha.
